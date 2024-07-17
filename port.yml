@@ -5,8 +5,8 @@
   blueprint: service
   properties:
     readme: string
-    url: https://example.com
-    language: string
+    url: https://github.com/witalloliveira/demo
+    language: Classic
     slack: https://example.com
     tier: Mission Critical
   relations: {}
