@@ -1,7 +1,7 @@
 - identifier: demo1
   title: Some Title
   team: []
-  icon: DefaultBlueprint
+  icon: java
   blueprint: service
   properties:
     readme: string
